@@ -1,0 +1,3 @@
+[submodule "tf_aws_ec2_instance"]
+	path = tf_aws_ec2_instance
+	url = https://github.com/Harika444/tf_aws_ec2_instance.git
